@@ -4,7 +4,10 @@ body {
     font-family: Arial, sans-serif;
     background-color: skyblue; 
     color: white; 
-    }
+    
+    } 
+
+    
     
     .container {
     max-width: 1200px;
@@ -103,5 +106,5 @@ body {
     font-size: 14px; 
     color: white; 
     } 
-
+   
     
